@@ -17,8 +17,9 @@ This Python script determines if a remote host is running an SSL VPN by analyzin
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/synfinner/amiansslvpn.git
-   cd ssl-vpn-checker
+   `git clone https://github.com/synfinner/amiansslvpn.git`
+
+   - `cd ssl-vpn-checker`
 
 2. Install the required dependencies:
    `pip3 install -r requirements.txt`
